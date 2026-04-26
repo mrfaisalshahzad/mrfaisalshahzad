@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I am Faisal Shahzad 👋
 
-<!--
-**mrfaisalshahzad/mrfaisalshahzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏦 Head of Growth & Insights at Enjaz Payment Services (Bank AlBilad)
+🤖 Aspiring AI/ML Engineer with Fintech Specialization
+📍 Riyadh, Saudi Arabia
+🌐 15+ years in Digital Payments, Remittances & Mobile Financial Services
 
-Here are some ideas to get you started:
+## 🚀 My AI/ML Learning Journey
+Currently learning Python and Data Science to transition into AI/ML Engineering
+with a focus on applying machine learning to solve fintech and payments challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently Learning
+- Python (CS50P - Harvard)
+- Data Analysis with Pandas and NumPy
+- Machine Learning with Scikit-Learn
+
+## 📊 My Projects
+- Expense Tracker (Python CLI)
+- Saudi Remittance Data Analysis
+- Fraud Detection Model (Coming Soon)
+
+## 🔗 Connect With Me
+LinkedIn: https://www.linkedin.com/in/f-shahzad
+Email: mr.faisalshahzad@gmail.com
